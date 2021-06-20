@@ -7,3 +7,6 @@
 [submodule "services/micro-comment-service"]
 	path = services/micro-comment-service
 	url = git@github.com:pika-3kw/micro-comment-service.git
+[submodule ".\\services\\micro-event-bus"]
+	path = .\\services\\micro-event-bus
+	url = git@github.com:pika-3kw/micro-event-bus.git

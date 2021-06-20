@@ -13,3 +13,6 @@
 [submodule "services/micro-query-service"]
 	path = services/micro-query-service
 	url = git@github.com:pika-3kw/micro-query-service.git
+[submodule "services/micro-moderation-service"]
+	path = services/micro-moderation-service
+	url = git@github.com:pika-3kw/micro-moderation-service.git

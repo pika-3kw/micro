@@ -1,0 +1,8 @@
+{
+  "name": "micro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pika-3kw/micro.git",
+  "author": "pika-3kw <giangnam10a2@gmail.com>",
+  "license": "MIT"
+}

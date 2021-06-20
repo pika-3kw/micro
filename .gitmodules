@@ -1,0 +1,9 @@
+[submodule "services/micro-reactapp"]
+	path = services/micro-reactapp
+	url = git@github.com:pika-3kw/micro-reactapp.git
+[submodule "services/micro-post-service"]
+	path = services/micro-post-service
+	url = git@github.com:pika-3kw/micro-post-service.git
+[submodule "services/micro-comment-service"]
+	path = services/micro-comment-service
+	url = git@github.com:pika-3kw/micro-comment-service.git

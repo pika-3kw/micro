@@ -15,3 +15,16 @@ spec:
       containers:
         - name: post-service
           image: pika3kw/post-service
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: post-clusterip-srv
+spec:
+  selector:
+    app: post-service
+  ports:
+    - name: post-service
+      protocol: TCP
+      port: 4001
+      targetPort: 4001
